@@ -1,4 +1,5 @@
 #!/bin/bash
-touch hell#!/bin/bash
-chown betty hell#!/bin/bash
-chown betty hellooo
+chown betty hello
+
+
+
