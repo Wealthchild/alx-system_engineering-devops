@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello, World"
+
+0x02-shell redirections
